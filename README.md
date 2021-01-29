@@ -1,2 +1,2 @@
 # pie_game
-Guess my favorite flavor of pie! 
+In this game you have to guess my favorite flavor of pie! 
